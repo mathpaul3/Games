@@ -1,0 +1,15 @@
+### ignore executable binary file
+# ignore all
+*
+
+# unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# config file & other
+.vscode/*
+.DS_Store
+images/
+*.exe
