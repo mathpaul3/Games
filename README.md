@@ -4,15 +4,34 @@
 
 Developing well-known games in various languages.
 
+<br />
+<br />
+
 # Game List
 
-- **[Partially Done]** <i class="devicon-python-plain"></i> Sudoku
-- **[Partially Done]** <i class="devicon-c-plain"></i> Tetris
-- **[In Process]** <i class="devicon-rust-original"></i> Chess
-- **[In Process]** <i class="devicon-cplusplus-plain"></i> Minesweeper
-- **[Not Started]** Flappy Bird
-- **[Not Started]** Snake Game
-- **[Not Started]** Puyo Puyo
+### Chess **[In Process]**  
+![My Skills](https://skillicons.dev/icons?i=rust)
+
+### Flappy Bird **[Not Started]**  
+<br />
+
+### Minesweeper **[In Process]**  
+![My Skills](https://skillicons.dev/icons?i=cpp)
+
+### Puyo Puyo **[Not Started]**
+<br />
+
+### Snake Game **[Not Started]**  
+<br />
+
+### Sudoku **[Partially Done]**  
+![My Skills](https://skillicons.dev/icons?i=python)
+
+### Tetris **[Partially Done]**  
+![My Skills](https://skillicons.dev/icons?i=c)
+
+<br />
+<br />
 
 # Setup Environments
 
@@ -25,13 +44,13 @@ Developing well-known games in various languages.
 - Setup Virtual Environment
 
 ```bash
-python -m venv ${VENV_NAME}
+python -m venv $(VENV_NAME)
 ```
 
 - Activate Virtual Environment
 
 ```bash
-source ${PATH_TO_BIN}/activate
+source $(PATH_TO_BIN)/activate
 ```
 
 - Deactivate Virtual Environment
@@ -45,18 +64,18 @@ deactivate
 - Export Dependencies to requirements.txt
 
 ```bash
-pip freeze > ${FILENAME}
+pip freeze > $(FILENAME)
 ```
 
 - Install Dependencies in requirements.txt
 
 ```bash
-pip install -r ${FILENAME}
+pip install -r $(FILENAME)
 ```
 
 ## C/C++
 
-> **Macos**  
+> **MacOS**  
 > You do not need any additional settings.
 >
 > **Windows / Linux**  
@@ -65,14 +84,14 @@ pip install -r ${FILENAME}
 ### Compile and Run
 
 ```bash
-cd ${PATH_TO_MAKEFILE}
+cd $(PATH_TO_MAKEFILE)
 make
 ```
 
 ### Clean build files
 
 ```bash
-cd ${PATH_TO_MAKEFILE}
+cd $(PATH_TO_MAKEFILE)
 make clean
 ```
 
