@@ -76,7 +76,7 @@ typedef struct TETRIMINO {
 } TETRIMINO;
 
 // 테트리미노 타입
-typedef enum {I_MINO, J_MINO, L_MINO, O_MINO, S_MINO, Z_MINO, T_MINO} MINO_TYPE; 
+typedef enum {I_MINO, J_MINO, L_MINO, O_MINO, S_MINO, Z_MINO, T_MINO} MINO_TYPE;
 
 // 회전축을 기준으로 [테트리미노 타입][회전][각 cell의 상대적 위치]
 COORDINATE tetrimino[TETRIMINO_NUM][4][4]={
