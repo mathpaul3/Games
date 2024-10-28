@@ -9,25 +9,32 @@ Developing well-known games in various languages.
 
 # Game List
 
-### Chess **[In Process]**  
+### Chess **[In Progress]**
+
 ![My Skills](https://skillicons.dev/icons?i=rust)
 
-### Flappy Bird **[Not Started]**  
+### Flappy Bird **[Not Started]**
+
 <br />
 
-### Minesweeper **[In Process]**  
+### Minesweeper **[In Progress]**
+
 ![My Skills](https://skillicons.dev/icons?i=cpp)
 
 ### Puyo Puyo **[Not Started]**
+
 <br />
 
-### Snake Game **[Not Started]**  
+### Snake Game **[Not Started]**
+
 <br />
 
-### Sudoku **[Partially Done]**  
+### Sudoku **[Partially Done]**
+
 ![My Skills](https://skillicons.dev/icons?i=python)
 
-### Tetris **[Partially Done]**  
+### Tetris **[Partially Done]**
+
 ![My Skills](https://skillicons.dev/icons?i=c)
 
 <br />
